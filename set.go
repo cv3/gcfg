@@ -8,7 +8,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/scalingdata/gcfg/types"
+	"github.com/cv3/gcfg/types"
 )
 
 type tag struct {
